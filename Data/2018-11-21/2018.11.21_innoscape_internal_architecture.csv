@@ -1,0 +1,151 @@
+Date,prodcategory1_seller,prodcategory2_seller,productfamily_seller,prodcategory1_seller_based_LM_to_upd,prodcategory2_seller_based_LM_to_upd,productfamily_seller_based_LM_to_upd,innoscape_ref_prodcategory1_seller,innoscape_ref_prodcategory2_seller,innoscape_ref_productfamily_seller
+,Matériaux et menuiserie,Gros oeuvre,Accessoires d'enduit de façade,,,Accessoires Gros oeuvre,Matériaux et menuiserie,Gros oeuvre,Accessoires Gros oeuvre
+,Matériaux et menuiserie,"Toiture, charpente et bardage","Accessoires de toiture, charpente et bardage",,,Accessoires couverture,Matériaux et menuiserie,"Toiture, charpente et bardage",Accessoires couverture
+,Matériaux & Menuiserie,"Toiture, charpente et bardage",Accessoires de tuile et ardoise,,,Accessoires couverture,Matériaux & Menuiserie,"Toiture, charpente et bardage",Accessoires couverture
+,Matériaux et menuiserie,Gros oeuvre,Montage traditionnel de cheminée,,,Divers Gros oeuvre,Matériaux et menuiserie,Gros oeuvre,Divers Gros oeuvre
+,Matériaux et menuiserie,Evacuation et traitement des eaux,Accessoires d'évacuation et traitement des eaux,,,"Gouttière, descente et accessoires  ",Matériaux et menuiserie,Evacuation et traitement des eaux,"Gouttière, descente et accessoires  "
+,Matériaux et menuiserie,Gros oeuvre,"Poudre (béton, chaux, ciment, enduit, mortier, ragréage, ...)",,,"Poudre béton, chaux, ciment, enduit, mortier, ragréage",Matériaux et menuiserie,Gros oeuvre,"Poudre béton, chaux, ciment, enduit, mortier, ragréage"
+,Matériaux & Menuiserie,Evacuation et traitement des eaux,Accessoires gouttière et descente,,,"Gouttière, descente et accessoires  ",Matériaux & Menuiserie,Evacuation et traitement des eaux,"Gouttière, descente et accessoires  "
+,Chauffage & Plomberie,Chauffe-eau et ballon d'eau chaude,Accessoires pour chauffe-eau électrique,,,Accessoires chauffe-eau ,Chauffage & Plomberie,Chauffe-eau et ballon d'eau chaude,Accessoires chauffe-eau 
+,Chauffage et plomberie,Traitement de l'eau et adoucisseur,Adoucisseur et sel adoucisseur d'eau,,,Adoucisseur,Chauffage et plomberie,Traitement de l'eau et adoucisseur,Adoucisseur
+,Chauffage & Plomberie,"VMC, aérateur et déshumidificateur",Aérateur,,,Aérateur et VMC,Chauffage & Plomberie,"VMC, aérateur et déshumidificateur",Aérateur et VMC
+,Terrasse et jardin,"Arrosage, pompe et récupérateur d'eau de pluie","Lance, pistolet d'arrosage et brosse de lavage",,Outil à main de jardin,Arrosage,Terrasse et jardin,Outil à main de jardin,Arrosage
+,Matériaux & Menuiserie,Etanchéité des murs et sols,Anti-mousse,,Colles-Adhésifs-Etanchéité,Anti-mousse,Matériaux & Menuiserie,Colles-Adhésifs-Etanchéité,Anti-mousse
+,Matériaux & Menuiserie,Isolation,Mousse expansive,,,Mousse expansive,Matériaux & Menuiserie,Isolation,Mousse expansive
+,Outillage,Machine d'atelier,Accessoires de machine à bois,,Machine d'atelier et gros outillage,Accessoires Outillage stationnaire,Outillage,Machine d'atelier et gros outillage,Accessoires Outillage stationnaire
+,Outillage,Machine d'atelier,Scie électrique stationnaire,,Machine d'atelier et gros outillage,Outillage stationnaire,Outillage,Machine d'atelier et gros outillage,Outillage stationnaire
+,Terrasse et jardin,"Grillage, canisse, panneau, clôture et palissade","Brise-vue, canisse, brande et brise vent",,Aménagement,"Brise-vue, canisse, brande et brise vent",Terrasse et jardin,Aménagement,"Brise-vue, canisse, brande et brise vent"
+,Outillage,Matériel et aménagement de l'atelier,"Aspirateur, nettoyeur vapeur et accessoires",,Machine d'atelier et gros outillage,"Aspirateurs, Nettoyeurs HP et accessoires",Outillage,Machine d'atelier et gros outillage,"Aspirateurs, Nettoyeurs HP et accessoires"
+,Outillage,Matériel et aménagement de l'atelier,Compresseur et accessoires,,Machine d'atelier et gros outillage,Compresseurs et accessoires,Outillage,Machine d'atelier et gros outillage,Compresseurs et accessoires
+,Matériaux et menuiserie,Evacuation et traitement des eaux,"Caniveau, siphon et regard",,,"Gouttière, descente et accessoires  ",Matériaux et menuiserie,Evacuation et traitement des eaux,"Gouttière, descente et accessoires  "
+,Terrasse et jardin,"Arrosage, pompe et récupérateur d'eau de pluie",Programmateur d’arrosage,,Outil à main de jardin,Arrosage,Terrasse et jardin,Outil à main de jardin,Arrosage
+,Chauffage et plomberie,Traitement de l'eau et adoucisseur,Centrale de traitement pour eau de boisson,,,Adoucisseur,Chauffage et plomberie,Traitement de l'eau et adoucisseur,Adoucisseur
+,Matériaux et menuiserie,"Toiture, charpente et bardage",Chapeau de ventilation,,,Accessoires couverture,Matériaux et menuiserie,"Toiture, charpente et bardage",Accessoires couverture
+,Chauffage & Plomberie,Chauffe-eau et ballon d'eau chaude,Chauffe-eau électrique instantané,,,chauffe-eau électrique ,Chauffage & Plomberie,Chauffe-eau et ballon d'eau chaude,chauffe-eau électrique 
+,Chauffage & Plomberie,Chauffe-eau et ballon d'eau chaude,Chauffe-eau et ballon d'eau chaude électrique,,,chauffe-eau électrique ,Chauffage & Plomberie,Chauffe-eau et ballon d'eau chaude,chauffe-eau électrique 
+,Chauffage & Plomberie,Chauffe-eau et ballon d'eau chaude,Chauffe-eau gaz,,,chauffe-eau gaz,Chauffage & Plomberie,Chauffe-eau et ballon d'eau chaude,chauffe-eau gaz
+,Chauffage & Plomberie,Production d'énergie et de chauffage renouvelable,Chauffe-eau thermodynamique,,,Chauffe-eau thermodynamique,Chauffage & Plomberie,Production d'énergie et de chauffage renouvelable,Chauffe-eau thermodynamique
+,Peinture et droguerie,"Colle, double face et adhésif",Colle et mastic colle,Matériaux & Menuiserie,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité ,Matériaux & Menuiserie,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité 
+,Outillage,Matériel et aménagement de l'atelier,Radio de chantier,,,Divers,Outillage,Matériel et aménagement de l'atelier,Divers
+,Chauffage & Plomberie,"VMC, aérateur et déshumidificateur",Conduit et accessoires d'aération,,,Conduit et accessoires d'aération,Chauffage & Plomberie,"VMC, aérateur et déshumidificateur",Conduit et accessoires d'aération
+,Outillage,Outillage à main,Pistolet à colle et agrafeuse,,,,Outillage,Outillage à main,Pistolet à colle et agrafeuse
+,Outillage,Outillage électroportatif,Accessoires et consommables,,,Accessoires et consommables outillage électroportatif,Outillage,Outillage électroportatif,Accessoires et consommables outillage électroportatif
+,Outillage,Outillage électroportatif,Batterie et chargeur,,,,Outillage,Outillage électroportatif,Batterie et chargeur
+,Outillage,Outillage électroportatif,Décapeur thermique,,,Divers OEP,Outillage,Outillage électroportatif,Divers OEP
+,Outillage,Outillage électroportatif,Défonceuse et lamelleuse,,,Défonceuse et lamelleuse et rabot,Outillage,Outillage électroportatif,Défonceuse et lamelleuse et rabot
+,Matériaux & Menuiserie,Etanchéité des murs et sols,"Etanchéité des fondations, mur enterré et dalle",,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité ,Matériaux & Menuiserie,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité 
+,Matériaux & Menuiserie,Etanchéité des murs et sols,Etanchéité des murs et façades,,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité ,Matériaux & Menuiserie,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité 
+,Matériaux & Menuiserie,Etanchéité des murs et sols,Etanchéité des sols et terrasses,,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité ,Matériaux & Menuiserie,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité 
+,Matériaux et menuiserie,Etanchéité des murs et sols,Etanchéité des toitures,,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité ,Matériaux et menuiserie,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité 
+,Chauffage et plomberie,Equipement WC et accessoires robinet,"Fixation, pipe et joint de WC",,,,Chauffage et plomberie,Equipement WC et accessoires robinet,"Fixation, pipe et joint de WC"
+,Matériaux & Menuiserie,Evacuation et traitement des eaux,Gouttière et descente,,,"Gouttière, descente et accessoires  ",Matériaux & Menuiserie,Evacuation et traitement des eaux,"Gouttière, descente et accessoires  "
+,Matériaux & Menuiserie,"Toiture, charpente et bardage","Habillage de sous-toiture, sous-face et cache-moineaux",,,Accessoires couverture,Matériaux & Menuiserie,"Toiture, charpente et bardage",Accessoires couverture
+,Outillage,Outillage électroportatif,Meuleuse et rainureuse,,,,Outillage,Outillage électroportatif,Meuleuse et rainureuse
+,Terrasse et jardin,"Arrosage, pompe et récupérateur d'eau de pluie","Raccord d'arrosage, robinet et vanne",,Outil à main de jardin,Arrosage,Terrasse et jardin,Outil à main de jardin,Arrosage
+,Matériaux & Menuiserie,Etanchéité des murs et sols,Mastic d'étanchéité,,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité ,Matériaux & Menuiserie,Colles-Adhésifs-Etanchéité,Mastic colle Etanchéité 
+,Outillage,Outillage électroportatif,Outil multifonctions,,,Outils multifonctions,Outillage,Outillage électroportatif,Outils multifonctions
+,Outillage,Outillage électroportatif,Outillage de précision et accessoires,,,Accessoires et consommables outillage électroportatif,Outillage,Outillage électroportatif,Accessoires et consommables outillage électroportatif
+,Outillage,Outillage électroportatif,Perceuse filaire et perforateur,,,"Perceuse, perforateur et visseuse filaire",Outillage,Outillage électroportatif,"Perceuse, perforateur et visseuse filaire"
+,Terrasse et jardin,"Arrosage, pompe et récupérateur d'eau de pluie","Seau, jerrican et arrosoir",,Outil à main de jardin,Arrosage,Terrasse et jardin,Outil à main de jardin,Arrosage
+,Outillage,Outillage électroportatif,Perceuse sans fil et visseuse,,,"Perceuse, perforateur et visseuse sans fil",Outillage,Outillage électroportatif,"Perceuse, perforateur et visseuse sans fil"
+,Outillage,Outillage électroportatif,Ponceuse électrique,,,,Outillage,Outillage électroportatif,Ponceuse électrique
+,Outillage,Outillage électroportatif,Rabot électrique,,,Défonceuse et lamelleuse et rabot,Outillage,Outillage électroportatif,Défonceuse et lamelleuse et rabot
+,Terrasse et jardin,"Arrosage, pompe et récupérateur d'eau de pluie",Tuyau d'arrosage et enrouleur de tuyau,,Outil à main de jardin,Arrosage,Terrasse et jardin,Outil à main de jardin,Arrosage
+,Outillage,Outillage électroportatif,"Scie électrique portative (sauteuse, égoïne, circulaire, ...)",,,Scies électriques,Outillage,Outillage électroportatif,Scies électriques
+,Terrasse et jardin,Outils de jardinage,"Outil pour tailler (haie, arbuste, ...)",,Outil à main de jardin,Taillanderie,Terrasse et jardin,Outil à main de jardin,Taillanderie
+,Terrasse et jardin,Outils de jardinage,Râteau et épandeur,,Outil à main de jardin,Outillage à main,Terrasse et jardin,Outil à main de jardin,Outillage à main
+,Matériaux et menuiserie,Etanchéité des murs et sols,Pistolet pour mastic,Outillage,Outillage à main,Pistolet à colle et agrafeuse,Outillage,Outillage à main,Pistolet à colle et agrafeuse
+,Terrasse et jardin,"Gazon, terreau, serre et entretien du jardin",Anti nuisibles,,Produits pour jardin,Produits phytosanitaires,Terrasse et jardin,Produits pour jardin,Produits phytosanitaires
+,Chauffage & Plomberie,"VMC, aérateur et déshumidificateur",Purificateur d'air et filtre,,,"Purificateur, déshumidificateur et humidificateur ",Chauffage & Plomberie,"VMC, aérateur et déshumidificateur","Purificateur, déshumidificateur et humidificateur "
+,Terrasse & Jardin,"Tondeuse, tronçonneuse, taille-haie…",Aspirateur souffleur,,Outillage motorisé,"Aspirateurs, souffleurs, broyeurs",Terrasse & Jardin,Outillage motorisé,"Aspirateurs, souffleurs, broyeurs"
+,Terrasse et jardin,"Gazon, terreau, serre et entretien du jardin",Carré potager et table de rempotage,,Produits pour jardin,Carré potager et table de rempotage,Terrasse et jardin,Produits pour jardin,Carré potager et table de rempotage
+,Matériaux & Menuiserie,Evacuation et traitement des eaux,Raccord de gouttière et descente,,,"Gouttière, descente et accessoires  ",Matériaux & Menuiserie,Evacuation et traitement des eaux,"Gouttière, descente et accessoires  "
+,Terrasse & Jardin,"Tondeuse, tronçonneuse, taille-haie...",Broyeur de végétaux,,Outillage motorisé,"Aspirateurs, souffleurs, broyeurs",Terrasse & Jardin,Outillage motorisé,"Aspirateurs, souffleurs, broyeurs"
+,Terrasse & Jardin,"Tondeuse, tronçonneuse, taille-haie…",Coupe-bordure,,Outillage motorisé,Débroussailleuse et coupe-bordures,Terrasse & Jardin,Outillage motorisé,Débroussailleuse et coupe-bordures
+,Terrasse & Jardin,"Tondeuse, tronçonneuse, taille-haie…",Débroussailleuse et tondeuse débroussailleuse,,Outillage motorisé,Débroussailleuse et coupe-bordures,Terrasse & Jardin,Outillage motorisé,Débroussailleuse et coupe-bordures
+,Terrasse et jardin,"Tondeuse, tronçonneuse, taille-haie…","Huile, additif et accessoires pour outil motorisé",,Outillage motorisé,Accessoires pour outillage motorisé,Terrasse et jardin,Outillage motorisé,Accessoires pour outillage motorisé
+,Terrasse et jardin,"Gazon, terreau, serre et entretien du jardin","Paillage, toile de paillage et écorce",,Produits pour jardin,"Protection jardin, paillage, tuteurs et accessoires",Terrasse et jardin,Produits pour jardin,"Protection jardin, paillage, tuteurs et accessoires"
+,Terrasse et jardin,"Gazon, terreau, serre et entretien du jardin","Serre, tunnel, film d'hivernage et de forçage",,Produits pour jardin,"Protection jardin, paillage, tuteurs et accessoires",Terrasse et jardin,Produits pour jardin,"Protection jardin, paillage, tuteurs et accessoires"
+,Terrasse & Jardin,"Tondeuse, tronçonneuse, taille-haie…",Motobineuse et motoculteur,,Outillage motorisé,Motobineuses et motoculteurs,Terrasse & Jardin,Outillage motorisé,Motobineuses et motoculteurs
+,Terrasse & Jardin,"Tondeuse, tronçonneuse, taille-haie…",Outil motorisé modulable,,Outillage motorisé,Outil motorisé modulable,Terrasse & Jardin,Outillage motorisé,Outil motorisé modulable
+,Terrasse & Jardin,"Tondeuse, tronçonneuse, taille-haie…",Taille-haie,,Outillage motorisé,Taille-haies,Terrasse & Jardin,Outillage motorisé,Taille-haies
+,Terrasse & Jardin,"Tondeuse, tronçonneuse, taille-haie…",Tondeuse et autoportée,,Outillage motorisé,"Tondeuses electriques, thermiques et autoportée",Terrasse & Jardin,Outillage motorisé,"Tondeuses electriques, thermiques et autoportée"
+,Terrasse et jardin,"Gazon, terreau, serre et entretien du jardin","Tuteur, godet et porte-étiquette",,Produits pour jardin,"Protection jardin, paillage, tuteurs et accessoires",Terrasse et jardin,Produits pour jardin,"Protection jardin, paillage, tuteurs et accessoires"
+,Terrasse et jardin,"Nettoyeur haute pression, détergent et accessoire",Nettoyeur haute pression,,,,Terrasse et jardin,"Nettoyeur haute pression, détergent et accessoire",Nettoyeur haute pression
+,Chauffage et plomberie,Evacuation des eaux usées,"Vidage, bonde et siphon",,,,Chauffage et plomberie,Evacuation des eaux usées,"Vidage, bonde et siphon"
+,Chauffage & Plomberie,"VMC, aérateur et déshumidificateur",VMC (Ventilation Mécanique Contrôlée),,,Aérateur et VMC,Chauffage & Plomberie,"VMC, aérateur et déshumidificateur",Aérateur et VMC
+,Terrasse & Jardin,"Tondeuse, tronçonneuse, taille-haie…","Tronçonneuse, scie et fendeur de bois",,Outillage motorisé,"Tronçonneuse, scie et fendeur de bois",Terrasse & Jardin,Outillage motorisé,"Tronçonneuse, scie et fendeur de bois"
+,Matériaux & Menuiserie,"Toiture, charpente et bardage",Tuile et ardoise,,,Couverture,Matériaux & Menuiserie,"Toiture, charpente et bardage",Couverture
+,Matériaux & Menuiserie,"Toiture, charpente et bardage",Couverture secondaire pour annexe de maison,,,Couverture,Matériaux & Menuiserie,"Toiture, charpente et bardage",Couverture
+,Matériaux & Menuiserie,"Toiture, charpente et bardage",Bardage et clin ,,,Bardage ,Matériaux & Menuiserie,"Toiture, charpente et bardage",Bardage 
+,Matériaux & Menuiserie,"Toiture, charpente et bardage",Ossature bois et bois de charpente ,,,Charpente ,Matériaux & Menuiserie,"Toiture, charpente et bardage",Charpente 
+,Chauffage & Plomberie,Production d'énergie et de chauffage renouvelable,Chauffe-eau thermodynamique et accessoires,,,Accessoires chauffe-eau ,Chauffage & Plomberie,Production d'énergie et de chauffage renouvelable,Accessoires chauffe-eau 
+,Chauffage & Plomberie,"VMC, aérateur et déshumidificateur",Déshumidificateur ,,,"Purificateur, déshumidificateur et humidificateur ",Chauffage & Plomberie,"VMC, aérateur et déshumidificateur","Purificateur, déshumidificateur et humidificateur "
+,Chauffage & Plomberie,"VMC, aérateur et déshumidificateur",Humidificateur,,,"Purificateur, déshumidificateur et humidificateur ",Chauffage & Plomberie,"VMC, aérateur et déshumidificateur","Purificateur, déshumidificateur et humidificateur "
+,Matériaux & Menuiserie,Isolation,Accessoires d'isolation ,,,Accessoires d'isolation ,Matériaux & Menuiserie,Isolation,Accessoires d'isolation 
+,Chauffage & Plomberie,"Radiateur, sèche-serviettes, chaudière, régulation et climatiseur",Chaudière,,,Chaudière ,Chauffage & Plomberie,"Radiateur, sèche-serviettes, chaudière, régulation et climatiseur",Chaudière 
+,Peinture & Droguerie,Restauration et relooking de meuble,Préparation du bois,Peinture-Droguerie-Colles,Produits et traitement bois,Produits et traitement bois intérieur,Peinture-Droguerie-Colles,Produits et traitement bois,Produits et traitement bois intérieur
+,Peinture & Droguerie,Peinture intérieure,Peinture cuisine et bain,Peinture-Droguerie-Colles,Peinture et enduits intérieurs,Peinture cuisine et bain,Peinture-Droguerie-Colles,Peinture et enduits intérieurs,Peinture cuisine et bain
+,Peinture & Droguerie,"Rouleau, pinceau et bâche de protection","Bâche, ruban de masquage et combinaison",Peinture-Droguerie-Colles,Outillage du peintre,Accessoires et divers outils peintre,Peinture-Droguerie-Colles,Outillage du peintre,Accessoires et divers outils peintre
+,Terrasse & Jardin,Terrasse et sol extérieur,Accessoires de pose et produits d'entretien ,,Aménagement,Accessoires amenagement et produits d'entretien ,Terrasse & Jardin,Aménagement,Accessoires amenagement et produits d'entretien 
+,Electricité & Domotique,Tableau électrique,Disjoncteur de branchement,,Disjoncteurs,Disjoncteur de branchement,Electricité & Domotique,Disjoncteurs,Disjoncteur de branchement
+,Electricité & Domotique,Tableau électrique,"Disjoncteur, coupe-circuit et interrupteur différentiel",,Disjoncteurs,"Disjoncteur, coupe-circuit et interrupteur différentiel",Electricité & Domotique,Disjoncteurs,"Disjoncteur, coupe-circuit et interrupteur différentiel"
+,Outillage,Outillage à main,Mise à niveau et détection,,,Mesure et tracage,Outillage,Outillage à main,Mesure et tracage
+,Terrasse & Jardin,"Parasol, tonnelle et voile d'ombrage",Voile d'ombrage,,Plein air,Ombrage,Terrasse & Jardin,Plein air,Ombrage
+,Terrasse & Jardin,"Parasol, tonnelle et voile d'ombrage",Parasol,,Plein air,Ombrage,Terrasse & Jardin,Plein air,Ombrage
+,Terrasse & Jardin,"Parasol, tonnelle et voile d'ombrage",Moustiquaire,,Plein air,Ombrage,Terrasse & Jardin,Plein air,Ombrage
+,Terrasse & Jardin,"Parasol, tonnelle et voile d'ombrage",Kiosque,,Plein air,Ombrage,Terrasse & Jardin,Plein air,Ombrage
+,Terrasse & Jardin,"Parasol, tonnelle et voile d'ombrage","Store banne et store fenêtre, store banne sur mesure",,Plein air,Ombrage,Terrasse & Jardin,Plein air,Ombrage
+,Terrasse & Jardin,"Parasol, tonnelle et voile d'ombrage",Pied et accessoires de parasol,,Plein air,Accessoires plein air,Terrasse & Jardin,Plein air,Accessoires plein air
+,Terrasse et jardin,Outils de jardinage,"Gants, bottes et vêtements du jardinier",,Outil à main de jardin,Protection du jardinier,Terrasse et jardin,Outil à main de jardin,Protection du jardinier
+,Cuisine,"Electroménager, four, hotte, réfrigérateur et plaque de cuisson","Electroménager, four, hotte, réfrigérateur et plaque de cuisson",,,,Cuisine,"Electroménager, four, hotte, réfrigérateur et plaque de cuisson","Electroménager, four, hotte, réfrigérateur et plaque de cuisson"
+,,,,Cuisine,"Electroménager, four, hotte, réfrigérateur et plaque de cuisson",Accessoires pour electroménager-four-hotte-réfrigérateur-plaque de cuisson,Cuisine,"Electroménager, four, hotte, réfrigérateur et plaque de cuisson",Accessoires pour electroménager-four-hotte-réfrigérateur-plaque de cuisson
+,Terrasse et jardin,"Fontaine, bassin","Pot de fleurs, jardinière, poterie décorative",,Aménagement,Contenants,Terrasse et jardin,Aménagement,Contenants
+,Outillage,Matériel et aménagement de l'atelier,Eclairage de chantier,,,,Outillage,Matériel et aménagement de l'atelier,Eclairage de chantier
+,Terrasse et jardin,Outils de jardinage,Outil pour cultiver,,Outil à main de jardin,Outillage à main,Terrasse et jardin,Outil à main de jardin,Outillage à main
+,Electricité et Domotique,Tableau électrique,"Accessoires du tableau électrique (bornier, peigne, …)",,Distribution électrique,"Accessoires du tableau électrique (bornier, peigne,etc)",Electricité et Domotique,Distribution électrique,"Accessoires du tableau électrique (bornier, peigne,etc)"
+,Electricité et Domotique,Interrupteur et prise,"Interrupteur et prise encastrable, composable",,Interrupteurs et prises,Interrupteurs et prises,Electricité et Domotique,Interrupteurs et prises,Interrupteurs et prises
+,,,,Divers,Divers,Divers,Divers,Divers,Divers
+,Terrasse & jardin,"Gazon, terreau, serre et entretien du jardin",Outil pour entretien du gazon,,Produits pour jardin,"Semence, engrais, rouleau gazon",Terrasse & jardin,Produits pour jardin,"Semence, engrais, rouleau gazon"
+,Terrasse & Jardin,Terrasse et sol extérieur,Gazon synthétique,,Aménagement,Aménagements décoratifs,Terrasse & Jardin,Aménagement,Aménagements décoratifs
+,Terrasse & Jardin,"Barbecue, plancha et cuisine d'extérieur",Barbecue,,Plein air,Barbecue,Terrasse & Jardin,Plein air,Barbecue
+,Matériaux & Menuiserie,"Panneau bois, tablette, étagère, tasseau, moulure et plinthe","Plinthe bois, plinthe MDF, plinthe PVC",,,,Matériaux & Menuiserie,"Panneau bois, tablette, étagère, tasseau, moulure et plinthe","Plinthe bois, plinthe MDF, plinthe PVC"
+,"Carrelage, parquet & sol souple","Parquet, stratifié et plancher",Plinthe pour parquet et stratifié,,,,"Carrelage, parquet & sol souple","Parquet, stratifié et plancher",Plinthe pour parquet et stratifié
+,"Carrelage, parquet & sol souple","Parquet, stratifié et plancher",Barre de seuil pour parquet et stratifié,,,Barre de seuil et nez de marche,"Carrelage, parquet & sol souple","Parquet, stratifié et plancher",Barre de seuil et nez de marche
+,Outillage,Outillage spécialisé,Outillage du carreleur,,,,Outillage,Outillage spécialisé,Outillage du carreleur
+,Outillage,Outillage spécialisé,Outillage du peintre,,,,Outillage,Outillage spécialisé,Outillage du peintre
+,Outillage,Outillage spécialisé,Outillage du plombier,,,,Outillage,Outillage spécialisé,Outillage du plombier
+,Outillage,Outillage spécialisé,Outillage du maçon,,,,Outillage,Outillage spécialisé,Outillage du maçon
+,Outillage,Outillage spécialisé,Outillage du tapissier,,,,Outillage,Outillage spécialisé,Outillage du tapissier
+,Outillage,Outillage spécialisé,Outillage du plaquiste,,,,Outillage,Outillage spécialisé,Outillage du plaquiste
+,Outillage,Outillage spécialisé,"Outillage du menuisier, ébéniste",,,,Outillage,Outillage spécialisé,"Outillage du menuisier, ébéniste"
+,Outillage,Outillage spécialisé,Outillage du vitrier,,,,Outillage,Outillage spécialisé,Outillage du vitrier
+,Outillage,Outillage spécialisé,Outillage du soudeur,,,,Outillage,Outillage spécialisé,Outillage du soudeur
+,Outillage,Outillage à main,"Cutter, scalpel et ciseaux",,,,Outillage,Outillage à main,"Cutter, scalpel et ciseaux"
+,Outillage,Outillage à main,Lime et râpe,,,,Outillage,Outillage à main,Lime et râpe
+,Outillage,Outillage à main,"Tournevis (cruciforme, aimanté, de précision…)",,,,Outillage,Outillage à main,"Tournevis (cruciforme, aimanté, de précision…)"
+,Outillage,Outillage à main,Pince et tenaille,,,,Outillage,Outillage à main,Pince et tenaille
+,Outillage,Outillage à main,Clé et douille,,,,Outillage,Outillage à main,Clé et douille
+,Outillage,Outillage à main,Scie à main,,,,Outillage,Outillage à main,Scie à main
+,Outillage,Outillage à main,Marteau,,,,Outillage,Outillage à main,Marteau
+,Electricité & Domotique,Tableau électrique,Tableau électrique et coffret de communication,,Distribution électrique,Tableau électrique et coffret de communication,Electricité & Domotique,Distribution électrique,Tableau électrique et coffret de communication
+,Matériaux et menuiserie,Gros oeuvre,Grillage avertisseur et gaine de protection,,,,Matériaux et menuiserie,Gros oeuvre,Grillage avertisseur et gaine de protection
+,Terrasse & Jardin,"Salon de jardin, table et chaise",Chauffage de terrasse,,Plein air,Mobilier de jardin,Terrasse & Jardin,Plein air,Mobilier de jardin
+,Matériaux et menuiserie,Gros oeuvre,"Fer à béton (chaînage, treillis soudé, …)",,,Divers Gros oeuvre,Matériaux et menuiserie,Gros oeuvre,Divers Gros oeuvre
+,"Carrelage, parquet & sol souple","Lame, dalle et sol PVC",Sol PVC en rouleau,,,,"Carrelage, parquet & sol souple","Lame, dalle et sol PVC",Sol PVC en rouleau
+,Terrasse & Jardin,"Abri, garage, rangement et étendoir",Abri de jardin,,Aménagement,Abris de jardin,Terrasse & Jardin,Aménagement,Abris de jardin
+,Terrasse & Jardin,Terrasse et sol extérieur,Dalle et lame bois pour terrasse et jardin,,Aménagement,Dalles et lames bois pour terrasse et jardin,Terrasse & Jardin,Aménagement,Dalles et lames bois pour terrasse et jardin
+,,,,Outillage,Outillage électroportatif,Divers OEP,Outillage,Outillage électroportatif,Divers OEP
+,Quincaillerie & Sécurité,"Cheville, vis, clou et boulon",Vis,Quincaillerie & Sécurité,Quincaillerie de fixation,Visserie-clouterie,Quincaillerie & Sécurité,Quincaillerie de fixation,Visserie-clouterie
+,Terrasse et jardin,"Nettoyeur haute pression, détergent et accessoire",Accessoires pour nettoyeur haute pression,,,,Terrasse et jardin,"Nettoyeur haute pression, détergent et accessoire",Accessoires pour nettoyeur haute pression
+,Terrasse et jardin,Terrasse et sol extérieur,Bordure de jardin,,Aménagement,Aménagements décoratifs,Terrasse et jardin,Aménagement,Aménagements décoratifs
+,Terrasse et jardin,"Grillage, canisse, panneau, clôture et palissade",Accessoires d'occultation,,Aménagement,Accessoires amenagement et produits d'entretien ,Terrasse et jardin,Aménagement,Accessoires amenagement et produits d'entretien 
+,Décoration & Eclairage,Ampoule et LED,Ampoule et LED,Décoration et Eclairage,Luminaires,Ampoules et leds,Décoration et Eclairage,Luminaires,Ampoules et leds
+,Terrasse & Jardin,Outils de jardinage,Pelle et pioche,,Outil à main de jardin,Outillage à main,Terrasse & Jardin,Outil à main de jardin,Outillage à main
+,Electricité et Domotique,Interrupteur et prise,Interrupteur et prise prêt à poser,,Interrupteurs et prises,Interrupteurs et prises,Electricité et Domotique,Interrupteurs et prises,Interrupteurs et prises
+,Electricité et Domotique,Interrupteur et prise,Interrupteur et prise en saillie,,Interrupteurs et prises,Interrupteurs et prises,Electricité et Domotique,Interrupteurs et prises,Interrupteurs et prises
+,Electricité et Domotique,Interrupteur et prise,Interrupteur et prise étanche,,Interrupteurs et prises,Interrupteurs et prises,Electricité et Domotique,Interrupteurs et prises,Interrupteurs et prises
+,Electricité et Domotique,Interrupteur et prise,Interrupteur et variateur de lampe,,Interrupteurs et prises,Interrupteurs et prises,Electricité et Domotique,Interrupteurs et prises,Interrupteurs et prises
+,Electricité et Domotique,Interrupteur et prise,Multiprise et parafoudre,,Interrupteurs et prises,,Electricité et Domotique,Interrupteurs et prises,Multiprise et parafoudre
+,Terrasse et jardin,Outils de jardinage,"Balai extérieur, sac et composteur",,Outil à main de jardin,Accessoires pour outillage à main de jardin,Terrasse et jardin,Outil à main de jardin,Accessoires pour outillage à main de jardin
+,Terrasse & jardin,"Gazon, terreau, serre et entretien du jardin",Pulvérisateur de jardin et accessoires,,Outil à main de jardin,Pulvérisation,Terrasse & jardin,Outil à main de jardin,Pulvérisation
